@@ -25,20 +25,13 @@
 
 ## 🧑‍💻 Sobre mí
 
-```kotlin
-object Samuel {
-    val estudios   = "Desarrollo de Aplicaciones Multiplataforma (DAM)"
-    val objetivo   = "Desarrollador Backend"
-    val intereses  = listOf("FinTech", "Blockchain", "Sistemas escalables")
-    val aprendiendo = "Cada día algo nuevo 🚀"
-    val contacto   = "saroagui8132006@gmail.com"
-}
-```
-
-- 🎓 Estudiante de **DAM**
-- ⚙️ Me apasiona el **desarrollo backend**: APIs, bases de datos y la lógica que hace funcionar todo por detrás
-- 💸 Me interesa el mundo **FinTech** y la tecnología **Blockchain**
-- 📫 Escríbeme a **saroagui8132006@gmail.com**
+<table align="center">
+  <tr><td>🎓 <b>Estudios</b></td><td>Desarrollo de Aplicaciones Multiplataforma (DAM)</td></tr>
+  <tr><td>⚙️ <b>Objetivo</b></td><td>Desarrollador Backend: APIs, bases de datos y la lógica que hace funcionar todo por detrás</td></tr>
+  <tr><td>💸 <b>Intereses</b></td><td>FinTech · Blockchain · Sistemas escalables</td></tr>
+  <tr><td>🚀 <b>Aprendiendo</b></td><td>Cada día algo nuevo</td></tr>
+  <tr><td>📫 <b>Contacto</b></td><td>saroagui8132006@gmail.com</td></tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
